@@ -26,5 +26,13 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2"
+  },
+  "homepage": "https://github.com/Govern0r/discord.log",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Govern0r/discord.log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Govern0r/discord.log/issues"
   }
 }
