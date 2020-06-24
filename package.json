@@ -1,0 +1,30 @@
+{
+  "name": "discord.log",
+  "version": "1.0.3",
+  "description": "Log messages to discord asynchronously, just like you would with console.log.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "discord",
+    "discord.log",
+    "console.log",
+    "log",
+    "logger",
+    "discord webhook",
+    "webhook log",
+    "discord logging",
+    "remote log",
+    "webhook",
+    "discord messages",
+    "discord messaging",
+    "discord bot",
+    "discord.js",
+    "discord javascript",
+    "discord js"
+  ],
+  "author": "Michael Tromba",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
