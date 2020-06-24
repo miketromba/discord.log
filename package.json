@@ -1,6 +1,6 @@
 {
   "name": "discord.log",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Log messages to discord asynchronously, just like you would with console.log.",
   "main": "index.js",
   "scripts": {},
