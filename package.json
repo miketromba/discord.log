@@ -25,7 +25,7 @@
   "author": "Michael Tromba",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "homepage": "https://github.com/Govern0r/discord.log",
   "repository": {
